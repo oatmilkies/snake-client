@@ -23,6 +23,9 @@ Before you can run this client, you will need to be running the server side whic
 -   "s" - move down
 -   "d" - move right
 
-## Other
+## Messages
 
-- You can send a predefined message by pressing "m".
+- You can send the following canned messages to display on screen:
+-   "m" - meow
+-   "h" - hallo
+-   "p" - pow!
