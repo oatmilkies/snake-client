@@ -8,6 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
+This is what the snake game looks like:
 ![snake](https://github.com/oatmilkies/snake-client/assets/148240283/1f6d2dd9-7957-4848-b815-b332d9fb08c8)
 
 ## Getting Started
@@ -17,15 +18,15 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Moving the snake
 
-- Use the wasd keys to move the snake:
--   "w" - move up
--   "a" - move left
--   "s" - move down
--   "d" - move right
+Use the wasd keys to move the snake:
+- "w": move up
+- "a": move left
+- "s": move down
+- "d": move right
 
 ## Messages
 
-- You can send the following canned messages to display on screen:
--   "m" - meow
--   "h" - hallo
--   "p" - pow!
+You can send the following canned messages to display on screen:
+- "m": meow
+- "h": hallo
+- "p": pow!
