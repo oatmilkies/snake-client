@@ -8,9 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
-
+![snake](https://github.com/oatmilkies/snake-client/assets/148240283/1f6d2dd9-7957-4848-b815-b332d9fb08c8)
 
 ## Getting Started
 
