@@ -6,7 +6,9 @@ const keyMappings = {
   a: "Move: left",
   s: "Move: down",
   d: "Move: right",
-  m: "Say: meow"
+  m: "Say: meow",
+  h: "Say: hallo",
+  p: "Say: pow!"
 }
 
 module.exports = {
