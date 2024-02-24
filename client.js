@@ -14,8 +14,6 @@ const connect = function() {
   conn.on("connect", () => {
     console.log("Connected!");
     conn.write("Name: LMG");
-
-    //setInterval(() => conn.write("Move: up"), 50);
   });
 
   //Display message from server
