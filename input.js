@@ -18,9 +18,9 @@ const setupInput = function(conn) {
 const handleUserInput = function(key) {
   if (key === '\u0003') {
     process.exit();
-  } else if (["w", "a", "s", "d", "m"].includes(key)) {
+  } else if (["w", "a", "s", "d", "m", "h", "p"].includes(key)) {
     connection.write(keyMappings[key]);
-  } else if (!["w", "a", "s", "d", "m"].includes(key)) {
+  } else if (!["w", "a", "s", "d", "m", "h", "p"].includes(key)) {
     connection.write("Say: nah");
   }
 };
